@@ -1,20 +1,20 @@
 # 🏄‍♂️ Nurbek Sobirov
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer / Saxophonist / Pentester)`**
 
 I am a Fullstack developer and Pentester. I am a versatile tech professional with a dual focus on building modern web experiences and managing robust network infrastructures. Currently, I balance my time between developing sleek user interfaces and ensuring seamless server operations for educational institutions.
 
 <p align="left">
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/[YOUR_GITHUB_USERNAME]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/Nurbeko3?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nurbeko3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://t.me/[TELEGRAM_USER]">
+  <a href="https://t.me/Makkalik_Yigit">
     <img alt="Telegram" title="Contact me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/[INSTAGRAM_USER]">
+  <a href="https://instagram.com/nurbek_saxophonist">
     <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[YOUR_WEBSITE_URL]">
+  <a href="https://nurbek-info.uz">
     <img alt="Website" title="Visit my Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
@@ -44,17 +44,17 @@ I am a Fullstack developer and Pentester. I am a versatile tech professional wit
 
 ### 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=gruvbox)
+![Nurbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbeko3&show_icons=true&theme=gruvbox)
 
 ---
 
-### 🌐 My Portfolio & Projects
-You can check out my latest work and detailed case studies on my personal website:
-👉 **[Visit [YOUR_WEBSITE_URL]]([YOUR_WEBSITE_URL])**
+### 🌐 My Portfolio
+Check out my personal projects and blog:
+👉 **[nurbek-info.uz](https://nurbek-info.uz)**
 
 ---
 
-### 📫 Connect with me:
-- ✈️ **Telegram:** [@[TELEGRAM_USER]](https://t.me/[TELEGRAM_USER])
-- 📸 **Instagram:** [@[INSTAGRAM_USER]](https://instagram.com/[INSTAGRAM_USER])
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+### 📫 Let's Connect:
+* ✈️ **Telegram:** [@Makkalik_Yigit](https://t.me/Makkalik_Yigit)
+* 📸 **Instagram:** [@nurbek_saxophonist](https://instagram.com/nurbek_saxophonist)
+* 🌐 **Website:** [nurbek-info.uz](https://nurbek-info.uz)
