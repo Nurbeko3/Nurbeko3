@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Men haqimda:
 - 🔭 Hozirda **NarpayitAcademy.uz** ustida ishlayapman.
-- 🌱 Men **[O'rganayotgan texnologiyangiz]** bo'yicha bilimlarimni oshiryapman.
-- ⚡ Qiziqishlarim: **Penetration Testing, Jazz va Gitara.**
+- 🌱 Men **React+Vite, Next.js and Node.js** bo'yicha bilimlarimni oshiryapman.
+- ⚡ Qiziqishlarim: **Penetration Testing, Jazz va Saxophone.**
 - 💬 Men bilan **Frontend yoki Tarmoq xavfsizligi** haqida gaplashishingiz mumkin.
 
 ---
