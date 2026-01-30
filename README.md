@@ -42,6 +42,17 @@ I am a Fullstack developer and Pentester. I am a versatile tech professional wit
 
 #
 
+### 🚀 Completed Projects
+
+Here are some of the projects I have deployed and managed:
+
+| Project Name | Link | Description |
+| :--- | :--- | :--- |
+| **Narpay IT Academy** | [narpayitacademy.uz](https://narpayitacademy.uz) | Educational platform for IT courses. |
+| **Pop Estrada Art** | [pop.estrada-art.uz](https://pop.estrada-art.uz) | Art and music institute platform. |
+
+#
+
 ### 📊 Stats
 
 ![Nurbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbeko3&show_icons=true&theme=gruvbox)
