@@ -48,8 +48,8 @@ Here are some of the projects I have deployed and managed:
 
 | Project Name | Link | Description |
 | :--- | :--- | :--- |
-| **Narpay IT Academy** | [narpayitacademy.uz](https://narpayitacademy.uz) | Educational platform for IT courses. |
-| **Pop Estrada Art** | [pop.estrada-art.uz](https://pop.estrada-art.uz) | Art and music institute platform. |
+| **IT ACADEMY** | [narpayitacademy.uz](https://narpayitacademy.uz) | Educational platform for IT courses. |
+| **ESTRADA ART** | [estrada-art.uz](https://estrada-art.uz) | Art and music institute platform. |
 | **MCS** | [mcsolutions.uz](https://mcsolutions.uz) | GLOBAL INDUSTRIAL SAFETY PARTNER |
 | **STEELART** | [steelart.uz](https://steelart.uz) | PIVOT ESHIKLAR VA PANJARALAR |
 
