@@ -37,8 +37,6 @@
 
 **⬡ Backend**
 
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=00FF41)
-![Spring](https://img.shields.io/badge/Spring-0d0d0d?style=flat-square&logo=spring&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
 
@@ -57,7 +55,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=flat-square&logo=gnubash&logoColor=4EAA25)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 ---
 
