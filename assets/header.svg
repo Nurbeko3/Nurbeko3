@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Nurbek Sobirov — fullstack developer, pentester, saxophonist">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Nurbek Sobirov — fullstack developer, pentester">
 <defs>
   <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#FFB000" stroke-opacity=".07"/></pattern>
   <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".35"/></pattern>
@@ -38,7 +38,7 @@
   <text x="450" y="130" text-anchor="middle" class="mono name g2" fill="#2ee6ff" opacity="0">NURBEK SOBIROV</text>
   <text x="450" y="130" text-anchor="middle" class="mono name in" fill="#FFB000" filter="url(#glow2)">NURBEK SOBIROV</text>
 </g>
-<text x="450" y="168" text-anchor="middle" class="mono sub in2" fill="#e8dcc4">fullstack developer   ·   pentester   ·   saxophonist</text>
+<text x="450" y="168" text-anchor="middle" class="mono sub in2" fill="#e8dcc4">fullstack developer   ·   pentester</text>
 
 <circle cx="34" cy="27" r="3.5" fill="#ff3b3b" class="blink"/>
 <text x="46" y="31" class="mono xs" fill="#e8dcc4">SIGNAL ACQUIRED</text>
@@ -52,8 +52,8 @@
   <rect x="840" y="14" width="4" height="16" fill="#8a5f00"><animate attributeName="fill" values="#8a5f00;#FFB000;#8a5f00" dur="2.4s" repeatCount="indefinite"/></rect>
 </g>
 
-<text x="34" y="281" class="mono xs" fill="#6b6256">nurbek-info.uz</text>
-<text x="450" y="281" text-anchor="middle" class="mono xs" fill="#6b6256">// build · break · play //</text>
+<text x="34" y="281" class="mono xs" fill="#6b6256">@Nurbeko3</text>
+<text x="450" y="281" text-anchor="middle" class="mono xs" fill="#6b6256">// build · break · secure //</text>
 <text x="852" y="281" text-anchor="end" class="mono xs" fill="#FFB000">&gt;</text>
 <rect x="857" y="279" width="9" height="2" fill="#FFB000" class="blink"/>
 

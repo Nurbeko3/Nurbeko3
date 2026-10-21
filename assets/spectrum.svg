@@ -51,8 +51,8 @@
 <text x="815.5" y="202" text-anchor="middle" class="mono lab" fill="#6b6256">KALI</text>
 <circle cx="34" cy="27" r="3.5" fill="#ff3b3b" class="blink"/>
 <text x="46" y="31" class="mono xs" fill="#e8dcc4">LIVE</text>
-<text x="866" y="31" text-anchor="end" class="mono xs" fill="#6b6256">SPECTRUM // 48 kHz // 11 BANDS</text>
-<text x="450" y="226" text-anchor="middle" class="mono xs" fill="#6b6256">// all bands active · no silence detected //</text>
+<text x="866" y="31" text-anchor="end" class="mono xs" fill="#6b6256">SPECTRUM // 2.4 GHz // 11 BANDS</text>
+<text x="450" y="226" text-anchor="middle" class="mono xs" fill="#6b6256">// all bands active · no packet loss //</text>
 <g fill="none" stroke="#FFB000" stroke-opacity=".7" stroke-width="1.5"><path d="M14 32V14H32"/><path d="M868 14H886V32"/><path d="M14 208V226H32"/><path d="M886 208V226H868"/></g>
 <rect width="900" height="240" fill="url(#scan)" opacity=".4"/>
 </svg>

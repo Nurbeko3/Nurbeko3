@@ -1,11 +1,7 @@
-<img src="assets/header.svg" width="100%" alt="Nurbek Sobirov — fullstack developer · pentester · saxophonist"/>
+<img src="assets/header.svg" width="100%" alt="Nurbek Sobirov — fullstack developer · pentester"/>
 
 <p align="center">
   <a href="https://t.me/Makkalik_Yigit"><code>telegram</code></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://instagram.com/nurbek_saxophonist"><code>instagram</code></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://nurbek-info.uz"><code>nurbek-info.uz</code></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -15,11 +11,11 @@
 ```yaml
 # ~/.signal/identity.yml
 name:    Nurbek Sobirov
-roles:   [fullstack developer, pentester, saxophonist]
+roles:   [fullstack developer, pentester]
 focus:   modern web interfaces · hardened server infrastructure
 domain:  educational institutions · enterprise
 system:  linux / bash
-motto:   "clean code by day. secure systems always. sax after dark."
+motto:   "clean code by day. secure systems always."
 ```
 
 <img src="assets/divider.svg" width="100%" alt=""/>
